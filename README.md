@@ -10,3 +10,6 @@ You'll need to add a text file to book.txt and a secrets.py file that contains a
 Detailed setup instructions are at https://tpinecone.gitbooks.io/build-a-bot-workshop/content/
 
 An example lives at https://twitter.com/flatlandbot
+
+
+Example: https://twitter.com/BotBecquer
